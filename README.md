@@ -1,3 +1,11 @@
+This project reads a predefined data set of fie students, parses it, creates Student objects, and store them in a roster class. It provides functionality to:
+- Parse and Store student data
+- Validate email formats
+- Calculate average days in course
+- Add and remove students from the roster
+- Filtter students by degree program
+This project demonstrates understanding of classes, objects, memory manaement, arrays, pointers, enumerations, encapsulation, and dynamic allocation.
+
 # Scripting-and-Programming---Application--C867---WGUs-
 
 Project Directions:
